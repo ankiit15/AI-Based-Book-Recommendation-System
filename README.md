@@ -1,4 +1,4 @@
-# 📚 ReadifyAI – AI-Based Library Management System
+# 📚 AI-Based Book Management System
 
 ReadifyAI is a smart **Library Management System** with **User & Admin login** and an **AI-based Book Recommendation Engine**.
 
